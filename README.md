@@ -1,4 +1,4 @@
-Project: SRS-Project-Group--11---Clinic-Appointment-Queue-Management-System-
+Project: Clinic Appointment Queue Management System
 <br>
 Requirements:
 <br>
