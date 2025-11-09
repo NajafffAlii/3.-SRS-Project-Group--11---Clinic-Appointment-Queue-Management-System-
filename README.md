@@ -4,6 +4,10 @@ Requirements:
 <br>
 We collobratively wrote both the Functional and Non-Functional Requirements.
 <br>
+Data Flow Diagram:
+<br>
 Data FLow diagram which represents the flow of data through the system is designed by team leader Farhal Abbas.
+<br>
+Use Case Diagram:
 <br>
 Use Case disgram which represents the intraction between system and actors is designed by team member Najaf ALi.
